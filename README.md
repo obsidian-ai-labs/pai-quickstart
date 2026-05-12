@@ -1,6 +1,6 @@
 # PAI Quickstart
 
-Get PAI (Personal AI Infrastructure) installed on your machine in about 15 minutes. Run it yourself, or hire us to do it for you.
+Get PAI (Personal AI Infrastructure) installed on your machine in about 15 minutes. Run it yourself; we can help if you'd rather not.
 
 This is the install path for the Claude-Code-based PAI substrate — the same architecture Obsidian AI Labs runs to operate our entire business. Five named agents, signed inter-agent messaging across hosts, persistent memory, voice cloning, the works.
 
@@ -28,7 +28,7 @@ Three types of people:
 
 1. **Technical operators** who want to try PAI themselves before buying anything. You can do the entire install + first session in an evening.
 2. **Curious developers** who've read about agent fleets and want to see what one actually looks like in practice.
-3. **Small business owners working with us.** When you sign for a Tier 2 ($12k Digital Assistant) or Tier 3 ($40-50k Obsidian Executive Assistant) engagement, this is the foundation we install on your hardware before we wire in your custom agents.
+3. **Small business owners working with us.** When you engage Obsidian AI Labs to install or build your agent fleet, this is the foundation we put on your hardware before we wire in your custom agents.
 
 ## Prerequisites
 
@@ -59,7 +59,7 @@ The script will:
 6. Create a minimal `CLAUDE.md` you customize as you go
 7. Print next-step instructions
 
-Idempotent. Re-runnable. Skips anything you already have. Stops and tells you exactly what failed if anything goes wrong.
+Safe to re-run. Skips anything you already have. Stops and tells you exactly what failed if anything goes wrong.
 
 Expected runtime: 10-15 minutes on a fresh Mac, mostly waiting for Homebrew downloads.
 
@@ -102,19 +102,11 @@ The install gives you the foundation. The interesting layer is what you build on
 
 **Direction 2 — Single business focus.** You're a real estate agent, a clinic owner, a consultant. You wire one specific agent to one specific workflow that's eating your time. Paperwork generation. Client intake. Daily research. The PAI substrate underneath supports it, but you only build the one agent that pays for itself first.
 
-**Direction 3 — Full agent fleet.** Multiple named agents, signed inter-agent messaging across separate hosts, the full setup we run. This is a several-week project of disciplined building. We can help if you want to skip the learning curve (see "Hire us" below).
+**Direction 3 — Full agent fleet.** Multiple named agents, signed inter-agent messaging across separate hosts, the full setup we run. This is a several-week project of disciplined building. We can help if you want to skip the learning curve.
 
-## Hire us
+## Want help
 
-If you don't want to build the customization yourself, that's what we do. Three engagement tiers:
-
-| Tier | Investment | What you get |
-|---|---|---|
-| **Digital Worker** (Managed) | [REDACTED] | We host and operate everything. You connect in and use it. Easy mode. |
-| **Digital Assistant** | [REDACTED] | We install on your infrastructure, train you on it, hand you a system you own outright. The bridge most operators take. |
-| **Obsidian Executive Assistant** (Local-Only) | [REDACTED] | Fully bespoke local install, custom-built for one business, security audit included, no external connections. |
-
-Reach out: info@obsidianailabs.ca or visit [obsidianailabs.ca](https://obsidianailabs.ca).
+If you'd rather have us install and tune this for you, or build out the agent fleet that fits your business specifically, reach out at info@obsidianailabs.ca or visit [obsidianailabs.ca](https://obsidianailabs.ca).
 
 ## Trust signals
 

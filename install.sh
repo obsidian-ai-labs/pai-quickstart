@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # install-pai-mac.sh — PAI bootstrap installer for macOS
 #
-# Idempotent. Re-runnable. Non-destructive to existing tooling.
+# Safe to re-run. Non-destructive to existing tooling.
 # Brings a fresh Mac (or a partial install) to a working PAI baseline.
 #
 # Run:
