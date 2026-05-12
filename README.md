@@ -19,7 +19,7 @@ A working PAI baseline on your Mac:
 
 What you WON'T have on day one:
 
-- A pre-configured agent fleet for your business — that gets wired in either by you (using the patterns this repo exposes) or by us (Tier 2 engagement)
+- A pre-configured agent fleet for your business — that gets wired in either by you (using the patterns this repo exposes) or by us
 - Any of our production data, memory, clients, or skills — clean slate by design
 
 ## Who this is for
@@ -35,7 +35,7 @@ Three types of people:
 - A Mac (Apple Silicon M1/M2/M3/M4 strongly preferred; Intel works but slower)
 - macOS 13 (Ventura) or newer
 - About 5 GB of free disk space
-- An [Anthropic account](https://console.anthropic.com) for Claude API access
+- An [Anthropic account](https://console.anthropic.com) for Claude API access (this is our referral link — it helps us a little, no cost to you)
 - Optional: OpenAI account for Whisper transcription
 - Optional: ElevenLabs account for voice features
 
